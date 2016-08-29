@@ -1,0 +1,82 @@
+.container {
+	position: fixed;
+	width: 100%;
+	height: 242px;
+	z-index: 9999;
+	margin-top: 1px;
+	margin-left:0px;
+    }
+
+.navigation {
+	margin: 0 auto;
+}
+
+.img-content {
+	width: 100%;
+	margin-bottom: 120px;
+	text-align: center;
+}
+
+
+
+.img-header {
+	width: 100%;
+    text-align: center;
+}
+
+.form-search{
+             margin-top: 20px;
+             margin-left:30px;}
+.input{width:758px;
+      height:45px;
+      float: left;
+      position: absolute;
+      top:3255px;
+      left:248px;
+      
+      }
+.img-search {
+	width: 100%;
+    text-align: center;
+}
+
+.input-search{width:758px;
+      height:45px;
+    
+     
+      margin: 0 auto;
+     
+      
+      }
+      
+.search-div{width:100%;
+           height:226px;
+           background-color: #288ddd;
+           margin: 50px auto 0;
+           text-align: center;}
+           
+           
+           .search-text{color: #FFFFFF;
+                        font-size:35px;
+                        padding:50px 0 30px;
+                       
+                        
+                        font-family:  微软雅黑;}
+
+
+
+.nav li{white-space: nowrap;
+      width: 24%;
+      margin-top: 150px;
+      margin-bottom: 80px;
+      cursor: pointer;
+      }
+ .nav li:hover img{
+ 		opacity: 0.6;
+	    transform: scale(0.99);
+ }     
+      .nav{margin-left: 60px;}
+             
+
+
+

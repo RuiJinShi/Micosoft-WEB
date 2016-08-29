@@ -1,0 +1,18 @@
+body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,table,td,img,div
+{margin:0;padding:0;border:0;} 
+body
+{height:100%;background:#fff;font-family:"微软雅黑","SimSun","宋体","Arial Narrow";} 
+ul,ol
+{list-style-type:none;} 
+ul li{display: inline-block;}
+input,img
+{vertical-align:middle;} 
+a
+{text-decoration: none;color: inherit;}
+.f14{font-size:14px;}
+.t2{text-indent:2em;}
+.tl{text-align:left;}
+.tc{text-align:center;}
+.tr{text-align:right;}
+.vm{vertical-align:center;}
+.pa{position:absolute;}
